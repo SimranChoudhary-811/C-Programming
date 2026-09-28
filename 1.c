@@ -14,6 +14,8 @@ int main()
     
     printf("The sum=%d\n",sum);
     printf("The subtraction=%d\n",sub);
-    printf("The multiplication=%d\n")
+    printf("The multiplication=%d\n",mul);
+    printf("The division=%d\n",div);
+    printf("The modulus=%d\n",mod);
     return 0;
 }

@@ -7,6 +7,6 @@ int main()
     temp=a;
     a=b;
     b=temp;
-    printf("After swapping the value of a is %d and value of b is %d,a,b");
+    printf("After swapping the value of a is %d and value of b is %d",a,b);
     return 0;
 }
