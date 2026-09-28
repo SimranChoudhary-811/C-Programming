@@ -12,6 +12,8 @@ int main()
     div=x/y;
     mod=x%y;
     
-    printf("The sum %d",sum);
+    printf("The sum=%d\n",sum);
+    printf("The subtraction=%d\n",sub);
+    printf("The multiplication=%d\n")
     return 0;
 }
